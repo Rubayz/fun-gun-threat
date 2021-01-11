@@ -1,0 +1,12 @@
+{
+  "name": "fun-gun-threat",
+  "version": "1.0.0",
+  "description": "This takes a string or a person name or anything that you want and, threats them with a gun emoji. It is just a simple fun made. Don't take it seriously. It is  used by the fun people to do fun wiht others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
